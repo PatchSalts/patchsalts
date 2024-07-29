@@ -6,6 +6,8 @@ Hello! I'm a recent CS graduate from RIT looking to work with exciting hardware 
 
 I also have a passion for skiing, learning Japanese, casual video games, and crochet.
 
+[patchsalts@gmail.com](mailto:patchsalts@gmail.com) \| [patchsalts.github.io](https://patchsalts.github.io) \| [linkedin.com/in/patchsalts](https://linkedin.com/in/patchsalts)
+
 <!--
 **PatchSalts/patchsalts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
