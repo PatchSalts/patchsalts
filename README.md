@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Hello! I'm a recent CS graduate from RIT looking to work with exciting hardware and software innovations. I have working knowledge of many programming languages like Java, Python, C#, SQL, Bash, assembly languages, and HTML, and I can learn anything you throw at me.
+
+I also have a passion for skiing, learning Japanese, casual video games, and crochet.
+
 <!--
 **PatchSalts/patchsalts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
