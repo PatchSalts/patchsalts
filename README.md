@@ -1,4 +1,6 @@
-## Hi there 👋
+![A banner of an agender pride flag with random sheep emoji strewn about](/banner.png)
+
+# Hi there 👋
 
 Hello! I'm a recent CS graduate from RIT looking to work with exciting hardware and software innovations. I have working knowledge of many programming languages like Java, Python, C#, SQL, Bash, assembly languages, and HTML, and I can learn anything you throw at me.
 
